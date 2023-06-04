@@ -20,11 +20,11 @@
 
 <h4>A passionate Rest Api and Backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Pendeteksi Lampu Kendaraan**, **Wifi Intruder**, **Moodle Rest Api**.
+I’m currently working on **Pendeteksi Lampu Kendaraan**, **Wifi Intruder**, **Moodle Rest Api**.
 
-- 👯 I want to collaborate with **Electron Project**
+I want to collaborate with **Electron Project**
 
-- 📫 How to reach me **khuluqilkarim@gmail.com**
+How to reach me **khuluqilkarim@gmail.com**
 ---
 
   ### :hammer_and_wrench: Languages and Tools :
