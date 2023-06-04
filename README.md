@@ -26,7 +26,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khuluqilkarim&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D&card_width=499)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khuluqilkarim&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuluqilkarim)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
