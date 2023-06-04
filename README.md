@@ -14,12 +14,12 @@
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  ,I'm Muhammad Khuluqil Karim
 </h1>
 </div>
 
 ---
 
-<h2>Hi 👋, I'm Muhammad Khuluqil Karim</h1>
 <h4>A passionate Rest Api and Backend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Pendeteksi Lampu Kendaraan**
