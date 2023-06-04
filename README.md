@@ -19,8 +19,8 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Muhammad Khuluqil Karim</h1>
-<h3 align="center">A passionate Rest Api and Backend developer from Indonesia</h3>
+<h2>Hi 👋, I'm Muhammad Khuluqil Karim</h1>
+<h4>A passionate Rest Api and Backend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Pendeteksi Lampu Kendaraan**
 
