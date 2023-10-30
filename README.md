@@ -25,4 +25,4 @@
 - How to reach me **khuluqilkarim@gmail.com**
 ---
 
-![tryhackme stats](https://raw.githubusercontent.com/khuluqilkarim/khuluqilkarim/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Syndicats.png" alt="TryHackMe">
