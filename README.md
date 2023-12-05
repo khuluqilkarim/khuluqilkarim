@@ -33,16 +33,14 @@ class Person:
         return introduction
 
 # Membuat objek Person
-muhammad = Person(
+khuluq = Person(
     name="Muhammad Khuluqil Karim",
     hobbies=["hacking", "studying", "coffee"],
     campus="IT Telkom Surabaya"
 )
 
-# Memanggil metode introduce
-introduction = muhammad.introduce()
+introduction = khuluq.introduce()
 
-# Menampilkan hasil perkenalan
 print(introduction)
 
 ```
