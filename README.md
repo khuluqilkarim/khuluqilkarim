@@ -25,5 +25,5 @@
 ---
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Syndicats.png" alt="TryHackMe">
-<img src="https://khuluqilkarim.github.io/cybersecurity-essentials.png" alt="Cisco cybersecurity essential">
+<img src="https://khuluqilkarim.github.io/cybersecurity-essentials.png" alt="Cisco cybersecurity essential" width="30px">
 
