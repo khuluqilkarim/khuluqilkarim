@@ -19,12 +19,32 @@
 ---
 ## Life Cycle
 ```python
-import بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم as بِسْمِ اللَّهِ
+class Person:
+    def __init__(self, name, hobbies, campus):
+        self.name = name
+        self.hobbies = hobbies
+        self.campus = campus
 
-myLife = ["Study", "Sleep", "Wake Up", "Eat" , "Coffe"]
+    def introduce(self):
+        introduction = f"Hello, my name is {self.name}. "
+        hobby_list = ", ".join(self.hobbies)
+        introduction += f"My hobbies include {hobby_list}. "
+        introduction += f"I am currently studying at {self.campus}."
+        return introduction
 
-for item in myLife:
-    print(f"بِسْمِ اللَّهِ {item}")
+# Membuat objek Person
+muhammad = Person(
+    name="Muhammad Khuluqil Karim",
+    hobbies=["hacking", "studying", "coffee"],
+    campus="IT Telkom Surabaya"
+)
+
+# Memanggil metode introduce
+introduction = muhammad.introduce()
+
+# Menampilkan hasil perkenalan
+print(introduction)
+
 ```
 ---
 <div class="row">
