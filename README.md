@@ -17,10 +17,12 @@
 - I’m currently working on **Pendeteksi Lampu Kendaraan**, **Wifi Intruder**, **Moodle Rest Api**.
 - How to reach me **khuluqilkarim@gmail.com**
 ---
+## Life Cycle
 ```python
-learn cycle
 import بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم as بِسْمِ اللَّهِ
+
 myLife = ["Study", "Sleep", "Wake Up", "Eat" , "Coffe"]
+
 for item in myLife:
     print(f"بِسْمِ اللَّهِ {item}")
 ```
