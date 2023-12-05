@@ -17,7 +17,6 @@
 - I’m currently working on **Pendeteksi Lampu Kendaraan**, **Wifi Intruder**, **Moodle Rest Api**.
 - How to reach me **khuluqilkarim@gmail.com**
 ---
-## Life Cycle
 ```python
 class Person:
     def __init__(self, name, hobbies, campus):
@@ -44,7 +43,7 @@ introduction = khuluq.introduce()
 print(introduction)
 
 ```
----
+## Badge
 <div class="row">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Syndicats.png" alt="TryHackMe">
 <img src="https://khuluqilkarim.github.io/cybersecurity-essentials.png" alt="Cisco cybersecurity essential" width="60px">
