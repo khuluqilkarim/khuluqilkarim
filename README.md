@@ -23,7 +23,10 @@
 - I’m currently working on **Pendeteksi Lampu Kendaraan**, **Wifi Intruder**, **Moodle Rest Api**.
 - How to reach me **khuluqilkarim@gmail.com**
 ---
+<div class="row">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Syndicats.png" alt="TryHackMe">
+<img src="https://khuluqilkarim.github.io/cybersecurity-essentials.png" alt="Cisco cybersecurity essential" width="60px">
+</div>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Syndicats.png" alt="TryHackMe">
-<img src="https://khuluqilkarim.github.io/cybersecurity-essentials.png" alt="Cisco cybersecurity essential" width="30px">
+
 
