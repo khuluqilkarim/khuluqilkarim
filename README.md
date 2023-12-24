@@ -31,7 +31,6 @@ class Person:
         introduction += f"I am currently studying at {self.campus}."
         return introduction
 
-# Membuat objek Person
 khuluq = Person(
     name="Muhammad Khuluqil Karim",
     hobbies=["hacking", "studying", "coffee"],
