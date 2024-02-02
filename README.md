@@ -47,7 +47,7 @@ print(introduction)
   <img src="https://tryhackme-badges.s3.amazonaws.com/Syndicats.png" alt="TryHackMe">
 <img src="https://khuluqilkarim.github.io/cybersecurity-essentials.png" alt="Cisco cybersecurity essential" width="60px">
 </div>
-
+<br>
 **Languages and Tools:**
 
 <p align="left">
