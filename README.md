@@ -12,7 +12,7 @@
 
 ---
 
-<h4>A passionate cyber security</h3>
+<h4>Cyber Security & Capture The Flag Enthusiast | Vulnerability seeker</h3>
 
 - I’m currently working on **Pendeteksi Lampu Kendaraan**, **Wifi Intruder**, **Moodle Rest Api**.
 - How to reach me **khuluqilkarim@gmail.com**
