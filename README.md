@@ -44,7 +44,7 @@ print(introduction)
 ```
 ## Badge
 <div class="row">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Syndicats.png" alt="TryHackMe">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1177916" style='border:none;'></iframe>
 </div>
 
 **Languages and Tools:**
