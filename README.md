@@ -5,9 +5,6 @@
   <a href="mailto:khuluqilkarim@gmail.com">
     <img src="https://img.shields.io/badge/Email-khuluqilkarim%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://cloudnowsolution.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-cloudnowsolution.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
 </div>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Muhammad Khuluqil Karim</h1>
@@ -100,7 +97,7 @@ print(me.introduce())
 
 * **Email:** <a href="mailto:khuluqilkarim@gmail.com">[khuluqilkarim@gmail.com](mailto:khuluqilkarim@gmail.com)</a>
 * **LinkedIn:** <a href="https://www.linkedin.com/in/khuluqil-karim/">linkedin.com/in/khuluqil-karim</a>
-* **Website:** <a href="https://cloudnowsolution.com">cloudnowsolution.com</a>
+
 
 
 **Languages and Tools:**
