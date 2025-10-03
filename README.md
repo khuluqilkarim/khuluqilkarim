@@ -57,9 +57,8 @@
 | **Threat Intel & OSINT**     | Python (Requests/BS4), crawl4ai, Tor tooling, Abuse.ch, Ransomware.live                     |
 | **Dev & Scripting**          | Python, Bash, PowerShell, basic Node.js                                                     |
 | **Data**                     | PostgreSQL, CSV/JSON pipelines                                                              |
-| **Cloud & DevOps**           | Docker, AWS, Nginx                                                                          |
+| **Cloud & DevOps**           | Azure, Docker, AWS, Nginx                                                                   |
 | **Pentesting**               | Nmap, Naabu, Nuclei, Subfinder, Katana, Sliver                                              |
-| **Hardware/IoT**             | ESP32, Arduino, basic KiCad                                                                 |
 
 > Preference: measurable controls, safe defaults, and low‑ops automation.
 
